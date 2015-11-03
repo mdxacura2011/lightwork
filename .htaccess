@@ -1,0 +1,3 @@
+AddDefaultCharset off
+AddDefaultCharset utf-8
+php_value output_buffering On
