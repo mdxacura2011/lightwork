@@ -1,0 +1,66 @@
+#left {
+	padding-right: 60px;
+	padding-bottom: 5px;
+}
+
+#footer  {
+	background-color: #eee;
+	margin-top: 50px;
+}
+
+#last {
+	color: red;
+}
+
+#first {
+	color: red;
+}
+
+#eml {
+	color: red;
+}
+
+#pass {
+	color: red;
+}
+
+#cpass {
+	color: red;
+}
+
+#log {
+	color: red;
+}
+
+#tel {
+	color: red;
+}
+#data {
+	color: red;
+}
+
+#cap {
+	color: red;
+}
+
+#er {
+	text-align: center;
+	font-size: large;
+	color: red;
+}
+#myroom a {
+	text-decoration: none;
+}
+#myroom a:hover {
+	color: #ff6f5b;
+}
+
+#resume {
+	float: left;
+}
+
+#footer  {
+	height: 300px;
+	background-color: #eee;
+	margin-top: 40px;
+}
